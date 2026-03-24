@@ -142,7 +142,7 @@ The project includes an interactive UI for real-time predictions.
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/georgemulu/remote-patient-monitoring-federated-model.git
 cd <project-folder>
 ```
 
